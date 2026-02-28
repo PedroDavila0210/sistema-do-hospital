@@ -1,0 +1,1 @@
+Esta documentação detalha todos os endpoints da API RESTful do **Sistema Hospitalar**, hospedada em `https://sistema-hospitalar.onrender.com`. O sistema é implementado com **Node.js**, **Express** e **PostgreSQL** (via Supabase), com autenticação JWT, segurança reforçada e plena conformidade com a LGPD.
