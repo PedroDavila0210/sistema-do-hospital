@@ -1,6 +1,6 @@
 # Sistema Hospitalar - Backend
 
-Bem-vindo ao repositório do backend do **Sistema Hospitalar**, uma API RESTful completa projetada para gerenciar operações em clínicas, hospitais e unidades de saúde. O sistema suporta autenticação segura, gerenciamento de pacientes, profissionais, consultas, prescrições, prontuários, triagens, unidades de saúde e uma **camada avançada de Inteligência Artificial** para suporte à decisão clínica e epidemiológica.
+Bem-vindo ao repositório do backend do **Sistema Hospitalar** da Unama, uma API RESTful completa projetada para gerenciar operações em clínicas, hospitais e unidades de saúde. O sistema suporta autenticação segura, gerenciamento de pacientes, profissionais, consultas, prescrições, prontuários, triagens, unidades de saúde e uma **camada avançada de Inteligência Artificial** para suporte à decisão clínica e epidemiológica.
 
 ## Funcionalidades Principais
 
